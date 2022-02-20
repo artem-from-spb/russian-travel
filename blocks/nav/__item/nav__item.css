@@ -1,0 +1,16 @@
+@media screen and (max-width: 700px) {
+  .nav__item {
+    margin-bottom: 32px;
+  }
+
+  .nav__item:last-child {
+    margin-bottom: 86px;
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  .nav__item:last-child {
+    margin-bottom: 48px;
+  }
+}
