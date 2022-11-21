@@ -21,11 +21,14 @@
   height: 100%;
   background-color: #2A2C2F;
   opacity: 0.3;
+  transition: opacity 1.2s ease;
 }
 
 .cover__background:hover:before {
   opacity: 0.8;
+  transition: opacity 0.9s ease;
 }
+
 
 @media screen and (max-width: 1024px) {
   .cover__background {
