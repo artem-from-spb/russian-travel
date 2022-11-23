@@ -1,6 +1,8 @@
-<p align="center"><img src="./images/__logo_black.png" alt="Логотип проекта"></p>
+<p align="center"><img src="./images/__logo_black.png" alt="Логотип проекта">
 
-<h1 align="center">Путешествия по России<p></p></h1>
+<h1 align="center">Путешествия по России<p></p></h1></p>
+
+
 
 
 
