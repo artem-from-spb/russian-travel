@@ -1,4 +1,4 @@
-<p align="center"><a href="" rel="noopener">  </a><img src="./images/__logo_black.jpg" alt="Логотип проекта"></p>
+<p align="center"><a href="" rel="noopener">  </a><img src="./images/__logo_black.png" alt="Логотип проекта"></p>
 
 <h1 align="center">Путешествия по России</h1>
 
